@@ -1,9 +1,6 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
-
-# Join Telegram Group: https://t.me/iptvth
 # =======================================================
-# Playlist Name: My Playlist by Akkradet
-# Last Update: 2023-06-15 16:01:39 UTC+07 ICT
+# Playlist Name: Thai TV Digital by Xay-IT
+# Last Update: 2023-06-23 18:48:39 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
