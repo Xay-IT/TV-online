@@ -1,3 +1,3 @@
-#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="Digital TV",Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+#EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation.th" tvg-name="Nation" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="Digital TV", Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
