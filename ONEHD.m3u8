@@ -1,3 +1,3 @@
-#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="Digital TV",ONE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE.th" tvg-name="ONE" tvg-logo="https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png" group-title="Digital TV", ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
