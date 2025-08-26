@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-chno="40" ch-number="40" tvg-id="TopNews.th" tvg-name="Top News" tvg-logo="https://play-lh.googleusercontent.com/ddFW3W44VzPqYojvK4iEDsdbk8VgYg5nfw2AhOkqZbOXQTdg2DRVtDJfQapP2PVf4g" group-title="Digital TV", TOP NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
